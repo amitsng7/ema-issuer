@@ -1,0 +1,4 @@
+{
+  "issuer": "https://amitsng7.github.io/ema-issuer",
+  "jwks_uri": "https://amitsng7.github.io/ema-issuer/jwks.json"
+}

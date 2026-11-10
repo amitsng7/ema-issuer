@@ -1,0 +1,17 @@
+{
+  "client_id": "https://amitsng7.github.io/ema-issuer/client.json",
+  "client_name": "Atlassian EMA POC (issuer test)",
+  "client_uri": "https://amitsng7.github.io/ema-issuer",
+  "redirect_uris": [
+    "https://amitsng7.github.io/ema-issuer/callback.html"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "urn:ietf:params:oauth:grant-type:jwt-bearer"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "application_type": "web"
+}
